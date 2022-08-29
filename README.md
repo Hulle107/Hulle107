@@ -16,7 +16,11 @@ With a background where I was taught to work as a programmer in a company, inclu
 
 ## 🔭 I’m currently working on
 
+ - Working on my apprentice test
+
 ## 🌱 I’m currently learning
+
+ - Embedded Controller
 
 ## 💼 Professional skills
 ![C#](https://img.shields.io/badge/code-C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
