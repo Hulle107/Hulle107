@@ -1,7 +1,6 @@
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dennis.thiesen.1990)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Hulle107)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennisthiesen)
 
 ![]()
 
@@ -34,6 +33,7 @@ With a background where I was taught to work as a programmer in a company, inclu
 ![Typescript](https://img.shields.io/badge/code-Typescript-%23007ACC?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/code-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/code-SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/code-MongoDB-%23001E2B?style=flat&logo=mongodb&logoColor=%2347A248)
 
 ![CSS3](https://img.shields.io/badge/style-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/style-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -46,8 +46,17 @@ With a background where I was taught to work as a programmer in a company, inclu
 ![React](https://img.shields.io/badge/tools-React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/tools-Socket.io-black?style=flat&logo=socket.io&badgeColor=white)
 
-![AWS](https://img.shields.io/badge/platform-AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/platform-Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/service-AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/service-Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+
+![Blender](https://img.shields.io/badge/program-Blender-%230E548B.svg?style=flat&logo=blender&logoColor=%23F5792A)
+![JetBrains](https://img.shields.io/badge/program-JetBrains-%2327282c.svg?style=flat&logo=jetbrains&logoColor=%23000000)
+![Postman](https://img.shields.io/badge/program-Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Unity](https://img.shields.io/badge/program-Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/program-Visual_Studio-%235C2D91.svg?style=flat&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/program-VS_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/program-Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/program-Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 
 ## 📈 Github stats
 
