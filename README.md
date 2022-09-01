@@ -8,7 +8,7 @@
   Hello there, Welcome to my Github page 👋!
 </h1>
 <p align="center">
-  I'm currently a student in the process of training as a Computer Technician 💻!
+  I'm currently a student in the process of taking a degree as a Computer Technician 💻!
 </p>
 
 ## 😊 About me
