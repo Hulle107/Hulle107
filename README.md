@@ -13,7 +13,7 @@
 
 ## 😊 About me
 
-With a background where I was taught to work as a programmer in a company, including a course in Java Android Development, as well as having self taught several different coding languages, I have good skills in programming, visualization and hardware. I have a minor degree of Asperger's which has given me access to better expand my abilities without affecting my social life. I'm in the process of training as a Computer Technician at Ballerup TEC and have completed 4 of my main courses.
+With a background where I was taught to work as a programmer in a company, including a course in Java Android Development, as well as having self taught several different coding languages, I have good skills in programming, visualization and hardware. I have a minor degree of Asperger's which has given me access to better expand my abilities without affecting my social life. I'm in the process of training as a Computer Technician at TEC Ballerup and have completed 4 of my main courses.
 
 ## 🔭 I’m currently working on
 
