@@ -17,7 +17,7 @@ With a background where I was taught to work as a programmer in a company, inclu
 
 ## 🔭 I’m currently working on
 
- - Working on my apprentice assignment [ProjectD](https://github.com/Hulle107/ProjectD/)
+ - Working on my apprentice assignment [ProjectD](https://github.com/Hulle107/ProjectD/).
 
 ## 🌱 I’m currently learning
 
