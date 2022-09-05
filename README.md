@@ -4,12 +4,13 @@
 
 ![]()
 
-<h1 align="center">
-  Hello there, Welcome to my Github page 👋!
-</h1>
-<p align="center">
-  I'm currently a student in the process of taking a degree as a **Computer Technician with programming as special** 💻!
-</p>
+<div align="center">
+
+  # Hello there, Welcome to my Github page 👋!
+  
+  I'm currently a student in the process of taking a degree in **Computer Technician** 💻!
+  
+</div>
 
 ## 😊 About me
 
