@@ -23,7 +23,6 @@ With a background where I was taught to work as a programmer in a company, inclu
 
 ## 🌱 I’m currently learning
 
- - Embedded Controller
  - Software Documentation
 
 ## 💼 Professional skills
