@@ -42,21 +42,29 @@ I currently have nothing, I'm trying to learn.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 [![.NET](https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://en.wikipedia.org/wiki/.NET)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
-[![Blazor](https://img.shields.io/badge/Blazor-%235C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://en.wikipedia.org/wiki/Blazor)
 [![Express](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/Express.js)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://en.wikipedia.org/wiki/JSON_Web_Token)
-[![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=white)](https://en.wikipedia.org/wiki/Socket.IO)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://en.wikipedia.org/wiki/Netlify)
-[![Blender](https://img.shields.io/badge/Blender-%230E548B.svg?style=for-the-badge&logo=blender&logoColor=%23F5792A)](https://en.wikipedia.org/wiki/Blender_(software))
 [![JetBrains](https://img.shields.io/badge/JetBrains-%2327282c.svg?style=for-the-badge&logo=jetbrains&logoColor=%23000000)](https://en.wikipedia.org/wiki/JetBrains)
 [![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/Postman_(software))
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://en.wikipedia.org/wiki/Unity_(game_engine))
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+
+## ☕ Hobby skills
+
+[![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+[![Blazor](https://img.shields.io/badge/Blazor-%235C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://en.wikipedia.org/wiki/Blazor)
+[![Electron](https://img.shields.io/badge/Electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)](https://en.wikipedia.org/wiki/Blazor)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)](https://en.wikipedia.org/wiki/Blazor)
+[![Blender](https://img.shields.io/badge/Blender-%230E548B.svg?style=for-the-badge&logo=blender&logoColor=%23F5792A)](https://en.wikipedia.org/wiki/Blender_(software))
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=white)](https://en.wikipedia.org/wiki/Socket.IO)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://en.wikipedia.org/wiki/Netlify)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Illustrator)
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Photoshop)
+
+
 
 ## 📈 Github stats
 
