@@ -22,7 +22,7 @@ With a background where I was taught to work as a programmer in a company, inclu
 
 ## 🌱 I’m currently learning
 
- - Software Documentation
+I currently have nothing, I'm trying to learn.
 
 ## 💼 Professional skills
 
