@@ -16,7 +16,7 @@ With a background where I was taught to work as a programmer in a company, inclu
 
 ## 🔭 I’m currently working on
 
- - Working on a libary to make a terminal like canvas [WebTerminal](https://github.com/Hulle107/WebTerminal/).
+ - I am working on my exam as a **Computer Technician with programming as special** [Hush Hush Diaries](https://github.com/RaiinbowSolutions/HushHushDiaries).
 
 ## 🌱 I’m currently learning
 
