@@ -12,7 +12,7 @@
 
 ## 😊 About me
 
-With a background where I was taught to work as a programmer in a company, including a course in Java Android Development, as well as having self taught several different coding languages, I have good skills in programming, visualization and hardware. I have a minor degree of Asperger's which has given me access to better expand my abilities without affecting my social life. I'm in the process of studying as a **Computer Technician with programming as special** at TEC Ballerup and have completed 5 of my main courses.
+I have a passion for IT and have gained experience in several different programming languages. My heart beats for working with servers, databases, and security. As a person, I am a mix of creativity and precision, and I place great emphasis on details. I value honest and informal communication and thrive in an environment where diversity is welcomed.
 
 ## 🔭 I’m currently working on
 
