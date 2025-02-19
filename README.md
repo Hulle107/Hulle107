@@ -15,11 +15,11 @@ I have a passion for IT and have gained experience in several different programm
 
 ## 🔭 I’m currently working on
 
-I currently have nothing, I'm working on.
+I currently have nothing.
 
 ## 🌱 I’m currently learning
 
-I currently have nothing, I'm trying to learn.
+I currently have nothing.
 
 ## 💼 Professional skills
 
