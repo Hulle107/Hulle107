@@ -6,7 +6,7 @@
 
   # Hello there, Welcome to my Github page 👋!
   
-  I'm currently a student in the process of taking a degree in **Computer Technician** 💻!
+  Taken a degree in **Data Technician Specialising in Programming** 💻!
   
 </div>
 
@@ -16,7 +16,7 @@ With a background where I was taught to work as a programmer in a company, inclu
 
 ## 🔭 I’m currently working on
 
- - I am working on my exam as a **Computer Technician with programming as special** [Hush Hush Diaries](https://github.com/RaiinbowSolutions/HushHushDiaries).
+I currently have nothing, I'm working on.
 
 ## 🌱 I’m currently learning
 
