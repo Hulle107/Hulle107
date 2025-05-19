@@ -14,11 +14,16 @@ I have a passion for IT and have gained experience in several different programm
 
 ## 🔭 I’m currently working on
 
-I currently have nothing.
+- [Libslm Binary](https://github.com/Hulle107/libslm-binary)
+- Libslm C64
+- Libslm Guard
+- Libslm Sort
+- Hush Hush Diaries (Revamp of my school project)
 
 ## 🌱 I’m currently learning
 
-I currently have nothing.
+- CPU architecture of 6510
+- How a Commodore 64 is working
 
 ## 💼 Professional skills
 
