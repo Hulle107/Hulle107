@@ -15,7 +15,7 @@ I have a passion for IT and have gained experience in several different programm
 ## 🔭 I’m currently working on
 
 - [Libslm Binary](https://github.com/Hulle107/libslm-binary)
-- Libslm C64
+- [Libslm C64](https://github.com/Hulle107/libslm-c64)
 - Libslm Guard
 - Libslm Sort
 - Hush Hush Diaries (Revamp of my school project)
