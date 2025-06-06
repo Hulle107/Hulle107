@@ -16,9 +16,10 @@ I have a passion for IT and have gained experience in several different programm
 
 - [Libslm Binary](https://github.com/Hulle107/libslm-binary)
 - [Libslm C64](https://github.com/Hulle107/libslm-c64)
-- Libslm Guard
-- Libslm Sort
-- Hush Hush Diaries (Revamp of my school project)
+- [Libslm Guard](https://github.com/Hulle107/libslm-guard)
+- [Libslm Sort](https://github.com/Hulle107/libslm-sort)
+- [Libslm Logger](https://github.com/Hulle107/libslm-logger)
+- Hush Hush Diaries (Revamp of my school project)(private)
 
 ## 🌱 I’m currently learning
 
