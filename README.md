@@ -1,10 +1,10 @@
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.thiesen.1990)
-
 <div align="center">
 
   # Hello there, Welcome to my Github page 👋!
   
   Taken a degree in **Data Technician Specialising in Programming** 💻!
+  
+  Currently learning at **Specialisterne Academy** 💼
   
 </div>
 
