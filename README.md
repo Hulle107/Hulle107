@@ -1,6 +1,12 @@
 <div align="center">
 
   # Hello there, Welcome to my Github page 👋!
+
+  <div align="right">
+
+  [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee%20♥️-231F20?style=social&logo=buymeacoffee&logoColor=#FFDD00)](https://buymeacoffee.com/hulle107)
+  
+  </div>
   
   Taken a degree in **Data Technician Specialising in Programming** 💻!
   
