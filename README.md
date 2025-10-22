@@ -34,19 +34,12 @@ I have a passion for IT and have gained experience in several different programm
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://en.wikipedia.org/wiki/Netlify)
 
-## 🔭 I’m currently working on
-
-- [Libslm Binary](https://github.com/Hulle107/libslm-binary)
-- [Libslm C64](https://github.com/Hulle107/libslm-c64)
-- [Libslm Guard](https://github.com/Hulle107/libslm-guard)
-- [Libslm Sort](https://github.com/Hulle107/libslm-sort)
-- [Libslm Logger](https://github.com/Hulle107/libslm-logger)
-- Hush Hush Diaries (Revamp of my school project)(private)
-
 ## 🌱 I’m currently learning
 
-- CPU architecture of 6510
-- How a Commodore 64 is working
+- CPU architecture of 6502
+- Low-level coding
+- Authentication & authorization
+- Data-handling
 
 ## 📁 My Work from Specialisterne Academy
 
@@ -61,14 +54,3 @@ I have a passion for IT and have gained experience in several different programm
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Hulle107)](https://github.com/Hulle107)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulle107&layout=compact)](https://github.com/Hulle107)
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
