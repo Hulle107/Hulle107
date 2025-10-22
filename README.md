@@ -32,6 +32,14 @@ I have a passion for IT and have gained experience in several different programm
 - CPU architecture of 6510
 - How a Commodore 64 is working
 
+## 📁 My Work from Specialisterne Academy
+
+- [Week 2](https://github.com/Hulle107/specialisterne-week-2)
+- [Week 3](https://github.com/Hulle107/specialisterne-week-3)
+- [Week 4](https://github.com/Hulle107/specialisterne-week-4)
+- [Week 5](https://github.com/Hulle107/specialisterne-week-5)
+- [Week 6](https://github.com/Hulle107/specialisterne-week-6)
+
 ## 💼 Professional skills
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
