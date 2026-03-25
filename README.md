@@ -41,14 +41,6 @@ I have a passion for IT and have gained experience in several different programm
 - Authentication & authorization
 - Data-handling
 
-## 📁 My Work from Specialisterne Academy
-
-- [Week 2](https://github.com/Hulle107/specialisterne-week-2)
-- [Week 3](https://github.com/Hulle107/specialisterne-week-3)
-- [Week 4](https://github.com/Hulle107/specialisterne-week-4)
-- [Week 5](https://github.com/Hulle107/specialisterne-week-5)
-- [Week 6](https://github.com/Hulle107/specialisterne-week-6)
-
 ## 📈 Github stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Hulle107)](https://github.com/Hulle107)
