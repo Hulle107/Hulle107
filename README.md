@@ -25,6 +25,7 @@ I have a passion for IT and have gained experience in several different programm
 [![HTML5](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![COBOL](https://img.shields.io/badge/COBOL-%23000000.svg?style=for-the-badge&logo=cobol&logoColor=#FFFFFF)](https://en.wikipedia.org/wiki/COBOL)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
@@ -33,7 +34,6 @@ I have a passion for IT and have gained experience in several different programm
 [![Blazor](https://img.shields.io/badge/Blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white)](https://en.wikipedia.org/wiki/Blazor)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://en.wikipedia.org/wiki/Netlify)
-[![COBOL](https://img.shields.io/badge/COBOL-%23000000.svg?style=for-the-badge&logo=cobol&logoColor=#FFFFFF)](https://en.wikipedia.org/wiki/COBOL)
 
 ## 🌱 I’m currently learning
 
